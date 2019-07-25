@@ -1,0 +1,12 @@
+this file is for creating a repository in git and cloning it in local.
+
+1.In your git, click "Repositories".
+2.click "new",inut some description.
+3.In your local directory,right key,click git bash here.
+4.In git bash,input "git clone https://github.com/yourCount/yourRepository"
+(you can look this in git repository.you'd better input by your hand,but not copy this.)
+5.Exit,push file you want to upload in local repository,then git bash this repository.
+6.some commad :
+	git add fileName
+	git commit -m"description"
+	git push
