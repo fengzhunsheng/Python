@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Sep 30 23:11:45 2019
-@file:
-@brief:
+@file:  uninfosearch.py
+@brief: this file use deep prior and wide prior to search the solution status space.
 
 @author: 冯准生
 @email:1565853379@qq.com
