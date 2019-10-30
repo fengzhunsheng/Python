@@ -100,6 +100,7 @@ def generate_child(cur_node, end_node, hash_set, open_table, dis_fn):
     :return: None
     '''
     num = len(cur_node.state)
+    # TODO: we can record the 0 position in State class
     for i in range(0, num):
         for j in range(0, num):
             if cur_node.state[i][j] != 0:       # 找到0的位置
